@@ -4,7 +4,7 @@
 My second account (unofficial) with my earlier projects and tutorials is here:  https://github.com/hunter86rsl
 
 I’m very enthusiastic about computers and programming.  
-As a programmer I like solving problems that improve my programming skills.
+As a software developer I like solving problems that improve my programming skills.
 
 #
 ### 🛠 &nbsp;Tech Stack 
